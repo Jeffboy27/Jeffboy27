@@ -1,5 +1,5 @@
 - 👋 Olá, sou o @Jeffboy27
-- 👀 Estou interessado e boas praticas na produção e implementação de codigos. 
+- 👀 Estou interessado em boas praticas na produção e implementação de codigos. 
 - 🌱 Estou atualmente estudando analise e desenvolvimenteo de sistema. 
 
 
